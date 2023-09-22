@@ -9,8 +9,13 @@ I'm Juan Hu, who like discovering the fun in programming.
  - 🎓 Bishops's University ｜ MSc in Computer Science
  - 🎓 Zhejiang University of Technology ｜ B.E. in Software Engineering
 
+## 🛠 Language
+- C++
+- C#
+- Python
+
 ## 💻 Expertise
-- C++ Game Development [ Modern c++ | SDL]
+- C++ Game Development [ C++17 | SDL]
 - Unity Game Development [Unity | C#]
 - iOS Application Development [Swift| Objective-C]
 - Database [Realm DB | MySQL]
